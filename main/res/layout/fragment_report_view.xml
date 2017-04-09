@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="layout.reportView"
+    android:orientation="vertical"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:text="@string/hello_blank_fragment"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Secure"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textSize="45dp"
+            android:layout_marginTop="35dp"
+            android:layout_gravity="center"/>
+       </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Report"
+            android:layout_weight="1"
+            android:id="@+id/report"
+            android:onClick="Report"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginBottom="50dp"
+            android:background="#2196f3"
+            style="@style/Base.TextAppearance.AppCompat.Large.Inverse"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textSize="35dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/View"
+            android:text="View"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginBottom="50dp"
+            android:background="#2196f3"
+            style="@style/Base.TextAppearance.AppCompat.Large.Inverse"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textSize="35dp"
+
+            />
+    </LinearLayout>
+
+
+</LinearLayout>

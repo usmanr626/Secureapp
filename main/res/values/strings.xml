@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Questionnaire</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="CrimeType">Which type of crime did you witnessed or become a victim of ?</string>
+    <string name="CrimeTypeMobileSnaching">Mobile snatching  </string>
+    <string name="crimeTypeMurder">Murder</string>
+    <string name="CrimeTypeKidnapping">Kidnapping</string>
+    <string name="crimeTypeRobbery">Robbery</string>
+    <string name="crimeTypeSexualHarassment">Sexual harassment</string>
+    <string name="crimeTypeBlast">Blast</string>
+    <string name="crimeTypeVandalism">Vandalism</string>
+
+
+    <string name="victim">Who was the victim?</string>
+    <string name="you">you</string>
+    <string name="yourFriend">your friend</string>
+    <string name="yourRelative">your relative</string>
+    <string name="stranger">stranger</string>
+    <string name="other"></string>
+
+
+    <string name="CrimeArea">Where did the crime happen?</string>
+
+
+    <string name="NumberOfCrimninal">How many criminal(s) were there?</string>
+    <string name="oneCriminal">1</string>
+    <string name="TwoCriminal">2</string>
+    <string name="ThreeCriminal">3</string>
+    <string name="MorethanThree">more than 3</string>
+
+
+    <string name="CriminalWeapon">What type of weapon was used?</string>
+    <string name="revolver">revolver</string>
+    <string name="pistol">pistol</string>
+    <string name="dagger">Dagger</string>
+    <string name="otherWeapon"></string>
+
+
+    <string name="criminalFacialFeature">What were the facial features of criminal(s)?</string>
+    <string name="cleanShave"> Clean shave</string>
+    <string name="shortBreadmoustache">short beard / moustache</string>
+    <string name="LongBeardMoustache">Long beard/moustache</string>
+    <string name="blad">blad</string>
+    <string name="shortHair">short hair</string>
+    <string name="longHaire">long hair</string>
+
+
+    <string name="criminalOutfit">What was the outfit of criminal(s)?</string>
+    <string name="shalwarKameez">Shalwar-Kameez</string>
+    <string name="jeanTShirt">Jeans – T - Shirt</string>
+    <string name="shorts">shorts</string>
+    <string name="otherOutfit"></string>
+
+
+    <string name="criminalVehicle">What vehicle did they use?</string>
+    <string name="car">car</string>
+    <string name="Bike">bike</string>
+    <string name="othervehicle"></string>
+
+
+    <string name="vehicleIdentification">Registration number of Vehicle or any other identification</string>
+
+
+    <string name="treatmentByCriminal">How was the way of treatment by the criminal(s)?</string>
+    <string name="simplePolite">simple and polite</string>
+    <string name="badmouthing">badmouthing</string>
+    <string name="manhandling">manhandling</string>
+    <string name="otherByUser"></string>
+
+
+    <string name="casualties">Were there any casualties?</string>
+    <string name="YesCasualties">Yes</string>
+    <string name="NoCasualties">No</string>
+
+
+</resources>
